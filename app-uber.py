@@ -5,7 +5,7 @@ import streamlit as st
 st.title('Uber pickups in NYC')
 
 DATE_COLUMN = 'date/time'
-DATA_URL = ('/content/uber_dataset.csv')
+DATA_URL = ('uber_dataset.csv')
 
 
 @st.cache
