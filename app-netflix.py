@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title('Netflix app')
+st.title('Netflix app | Alexia Saucedo A01283646')
 
 DATA_URL = ('movies.csv')
 
